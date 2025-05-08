@@ -16,3 +16,41 @@ Atualmente, estou focado em desenvolver um portfólio sólido que represente min
 
 ## 🗂️ Estrutura do Repositório
 
+
+---
+
+## 📘 Seções
+
+- **/projetos-academicos**: Contém trabalhos desenvolvidos durante a graduação em Ciência da Computação.
+- **/projetos-pessoais**: Projetos livres, experimentos e explorações fora do ambiente acadêmico.
+- **/documentacao**: Arquivos e anotações relacionadas às práticas de versionamento, guias de Git/GitHub e integração com LinkedIn.
+
+---
+
+## 🛠️ Tecnologias Usadas
+
+- Git e GitHub
+- Markdown
+- GitHub Pages (em breve)
+- HTML, CSS, JavaScript (nos projetos)
+- Python (em alguns scripts)
+
+---
+
+## 🔗 Integração Profissional
+
+Este repositório será vinculado ao meu perfil do LinkedIn como parte do desenvolvimento de uma identidade profissional no meio da tecnologia. Acompanhe também meus projetos por lá:
+
+➡️ [LinkedIn - Henrique Guimarães Gonçalves](https://www.linkedin.com/in/seu-usuario-aqui)
+
+---
+
+## 🎥 Apresentação
+
+Uma apresentação em vídeo será disponibilizada em breve neste espaço.
+
+---
+
+## 📄 Licença
+
+Este repositório está licenciado sob a [MIT License](LICENSE).
