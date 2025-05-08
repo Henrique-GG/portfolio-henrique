@@ -45,9 +45,4 @@ Este repositório será vinculado ao meu perfil do LinkedIn como parte do desenv
 
 ---
 
-## 🎥 Apresentação
-
-Uma apresentação em vídeo será disponibilizada em breve neste espaço.
-
----
 
