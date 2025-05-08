@@ -41,7 +41,7 @@ Atualmente, estou focado em desenvolver um portfólio sólido que represente min
 
 Este repositório será vinculado ao meu perfil do LinkedIn como parte do desenvolvimento de uma identidade profissional no meio da tecnologia. Acompanhe também meus projetos por lá:
 
-➡️ [LinkedIn - Henrique Guimarães Gonçalves]((https://www.linkedin.com/in/henrique-guimarães-gonçalves-47498235b/))
+➡️ [LinkedIn - Henrique Guimarães Gonçalves]([(https://www.linkedin.com/in/henrique-guimarães-gonçalves-47498235b/)])
 
 ---
 
