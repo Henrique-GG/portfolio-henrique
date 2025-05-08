@@ -51,6 +51,3 @@ Uma apresentação em vídeo será disponibilizada em breve neste espaço.
 
 ---
 
-## 📄 Licença
-
-Este repositório está licenciado sob a [MIT License](LICENSE).
